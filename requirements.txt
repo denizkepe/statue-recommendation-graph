@@ -1,0 +1,23 @@
+# Core dependencies
+pydantic>=2.0.0
+tqdm>=4.60.0
+python-dotenv>=1.0.0
+numpy
+pandas
+scikit-learn
+networkx
+
+# LLM
+langchain
+langchain-openai
+openai
+
+# Deep Learning & GNN (Assuming PyTorch)
+torch>=2.0.0
+torch_geometric>=2.3.0
+
+# Visualization & Notebooks
+matplotlib
+seaborn
+jupyter
+pyvis
